@@ -17,11 +17,11 @@
 
 ## The world
 
-In Ebonhaven, the sun hasn't set in living memory. **Vesper**, the evening given a will, stopped it
+In Ebonhaven, the sun hasn't set in living memory. **Vesper**, the Evening of the Mourning, stopped it
 at the horizon so that nothing would ever have to end. Every day is golden hour.
 
-Your heroes are mortal on purpose. Each gets **one life**. When a hero's story ends, the
-**Soulforge** releases them into Essence, a lantern is lit for them on Lantern Row, and the next
+Your heroes are mortal - each gets **one life**. When a hero's story ends, the
+**Soulforge** releases them into Essence, a lantern is lit for them, and the next
 hero picks up where they fell. The tone is warm melancholy, not grimdark. For presentation, the
 bar is Golden Sun and Final Fantasy IX: warm, storybook and readable.
 
